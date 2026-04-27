@@ -1,1 +1,51 @@
+**Task Objective**
+The main objective of this task is to perform Exploratory Data Analysis (EDA) on the dataset.
+This includes understanding the structure of the data, visualizing relationships between variables, and identifying key features that contribute to classification. 
+The goal is not to build a predictive model but to gain insights that could support future modeling.
+
+**Dataset**
+The dataset used is the Iris dataset, which contains 150 observations of iris flowers:
+
+Sepal Length (cm)
+Sepal Width (cm)
+Petal Length (cm)
+Petal Width (cm)
+Species (target variable)
+
+There are three species in the dataset:
+
+Iris-setosa
+Iris-versicolor
+Iris-virginica
+The dataset is balanced, with 50 samples for each species.
+
+**Data Loading and Preprocessing**
+The dataset was loaded using a standard CSV file. Initial inspection showed that:
+
+There are no missing values in the dataset
+All numerical columns are properly formatted
+The dataset is already clean and structured
+
+Since the data was already in good condition, no major preprocessing steps such as handling missing values, encoding, or scaling were required
+
+**Model Training**
+No machine learning models were applied in this task.
+The focus was entirely on data exploration and visualization.
+However, the insights gained from this analysis suggest that the dataset is suitable for classification tasks.
+
+**Key Findings**
+Petal length and petal width are the most important features for distinguishing between species
+Iris-setosa is clearly separable from the other two species
+Iris-versicolor and Iris-virginica show some overlap but can still be distinguished using multiple features
+Sepal features alone are not strong indicators for classification
+
+
+
+
+
+
+
+
+
+
 
