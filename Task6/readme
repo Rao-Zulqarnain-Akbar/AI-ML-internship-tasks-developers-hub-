@@ -1,45 +1,45 @@
-**Task Objective**
-1-Analyze housing data
-2-Identify important features affecting house prices
-3-Train a machine learning model to predict prices
-4-Evaluate the performance of the model
+1-**Task Objective**
+    a-Analyze housing data
+    b-Identify important features affecting house prices
+    c-Train a machine learning model to predict prices
+    d-Evaluate the performance of the model
 
-**Dataset Used**
-1-Area / Size of the house
-2-Number of bedrooms
-3-Number of bathrooms
-4-Location
-5-Price (main target)
+2-**Dataset Used**
+    a-Area / Size of the house
+    b-Number of bedrooms
+    c-Number of bathrooms
+    d-Location
+    e-Price (main target)
 
-**Clear Problem Statement and Goal**
-Problem Statement:
-Given various features of a house, predict its market price.
-Goal:
-Develop a model that can:
-Learn relationships between features and price
-Predict prices with minimum error
+3-**Clear Problem Statement and Goal**
+  Problem Statement:
+      Given various features of a house, predict its market price.
+  Goal:
+      Develop a model that can:
+        Learn relationships between features and price
+        Predict prices with minimum error
 
-**Data Loading**
-The dataset was loaded using standard data handling libraries like pandas.
+4-**Data Loading**
+      The dataset was loaded using standard data handling libraries like pandas.
 
-**Data Preprocessing Steps**
-1-Checked for missing values
-2-Cleaned inconsistent data (if any)
-3-Selected relevant features
-4-Split data into:
----->Training set
----->Testing set
+5-**Data Preprocessing Steps**
+    a-Checked for missing values
+    b-Cleaned inconsistent data (if any)
+    c-Selected relevant features
+    d-Split data into:
+    ---->Training set
+    ---->Testing set
 
-**Models Applied**
-Linear Regression
-1-A basic yet powerful algorithm for regression problems
-2-Assumes a linear relationship between input features and output
+6-**Models Applied**
+  Linear Regression
+    a-A basic yet powerful algorithm for regression problems
+    b-Assumes a linear relationship between input features and output
 
-**Key Results and Findings**
-1-Area (size) is the most influential factor in determining house price
-2-Number of rooms also impacts price significantly
-3-Linear Regression provides reasonable accuracy
-4-Model performance depends heavily on feature quality
+7-**Key Results and Findings**
+    a-Area (size) is the most influential factor in determining house price
+    b-Number of rooms also impacts price significantly
+    c-Linear Regression provides reasonable accuracy
+    d-Model performance depends heavily on feature quality
 
 
 
