@@ -29,7 +29,11 @@ Code snippet,notebook related to tasks,tasks descriptions,screenshots and clear 
 # Task 3: Heart Disease Prediction
   A model to predict whether a person is at risk of heart disease based on their health data.
 
+   1-Exploratory Data Analysis (EDA) to understand trends.
 
+   2-classification model (Logistic Regression)
 
+   3-Accuracy, ROC curve, and confusion matrix be determined.
 
+   4-Predict whether a person is at risk of heart disease or not
    
