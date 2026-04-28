@@ -19,4 +19,8 @@
 
 
 **5-Requirements**
-
+    1-Pandas
+    2-Numpy
+    3-Seaborn
+    4-matplot
+    5-sklearn
