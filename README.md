@@ -16,10 +16,14 @@ Code snippet,notebook related to tasks,tasks descriptions,screenshots and clear 
 
 # Task 6: House Price Prediction
   Predict house prices using property features such as size, bedrooms, and location.
+  
    1-Perform preprocessing on features like square footage, number of bedrooms, and
     location.
+    
    2-Train a regression model
+   
    3-Visualize predicted prices compared to actual prices.
+   
    4-Model evaluation (MAE, RMSE)
 
 # Task 3: Heart Disease Prediction
