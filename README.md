@@ -2,8 +2,10 @@
 Code snippet,notebook related to tasks,tasks descriptions,screenshots and clear explanation of codes
 
 # Task 1: Exploring and Visualizing a Simple Dataset
+
   Load, inspect, and visualize a dataset to understand data trends and distributions.
-   1-Data loading and inspection using pandas
+  
+   1-Data loading and inspection using pandas 
    2-Descriptive statistics and data exploration
    3-Basic plotting and visualization with seaborn and matplotlib
    4-Scatter plot to show relationships between features.
