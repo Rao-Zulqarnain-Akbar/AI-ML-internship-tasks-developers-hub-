@@ -1,4 +1,4 @@
-# 1-Task Objective
+1-**Task Objective**
    The main objective of this task is to perform Exploratory Data Analysis (EDA) on the dataset.
    This includes understanding the structure of the data, visualizing relationships between variables, and identifying key features that contribute to classification. 
    The goal is not to build a predictive model but to gain insights that could support future modeling.
