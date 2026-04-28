@@ -1,1 +1,22 @@
+**1-Task Objective**
+     The goal is to predict binary heart disease risk (0 = no disease, 1 = disease) from 13 clinical features using classification models,
+     with a secondary goal of performing thorough EDA across 14 structured steps to uncover clinical patterns before modelling.
+
+
+**2-Dataset Used**
+    Heart Disease UCI Dataset
+
+
+**3-Models Applied**
+    Two models trained on identical 80/20 stratified split
+      1-Logistic Regression 
+      2- Decision Tree
+
+
+**4- Findings**
+    Top predictors: ca (vessels), asymptomatic chest pain, oldpeak (ST depression), thalch (max HR), sex.
+    Key insight: asymptomatic patients paradoxically have the highest disease rate — a classic silent ischemia pattern.
+
+
+**5-Requirements**
 
